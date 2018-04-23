@@ -11,6 +11,10 @@ h1, p {
   text-align:center;
 }
 
+a {
+  text-decoration: none;
+}
+
 .app {
   width: 195px;
   height: 60px;
